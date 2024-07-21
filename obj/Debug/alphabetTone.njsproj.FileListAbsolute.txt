@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\alphabetTone\alphabetTone\obj\Debug\alphabetTone.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\alphabetTone\alphabetTone\obj\Debug\alphabetTone.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\alphabetTone\alphabetTone\bin\Microsoft.NodejsTools.WebRole.dll
